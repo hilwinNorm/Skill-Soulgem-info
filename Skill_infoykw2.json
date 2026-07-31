@@ -492,7 +492,7 @@
             "DescID": "0xEBC940D6"
         },
         "Name": "Magic Mist",
-        "Desc": "Adjacent yokais get 1 more points to fill their Soul Meter per turn."
+        "Desc": "Increases adjacent Yo-kais' Soul Meter gain by 1% of their total Soul Meter."
     },
     {
         "IDs": {
@@ -519,7 +519,7 @@
             "DescID": "0x7B123182"
         },
         "Name": "Venocharge",
-        "Desc": "The user gets 2 more points to fill their Soul Meter per turn."
+        "Desc": "Increases the user's Soul Meter gain by 2% of their total Soul Meter per turn. Do not stack with similar souls/skills."
     },
     {
         "IDs": {
