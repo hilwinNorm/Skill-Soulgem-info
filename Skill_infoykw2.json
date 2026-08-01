@@ -420,7 +420,7 @@
             "DescID": "0x3AEC43B2"
         },
         "Name": "Make Amends",
-        "Desc": "User restores one of ally's HP by 50% of this Yokai's SPR stat.\n(Based on tests, the healing is actually less than 50%.)"
+        "Desc": "User restores one of ally's HP by based on SPR stat.\n(Skill has 50BP.)"
     },
     {
         "IDs": {
