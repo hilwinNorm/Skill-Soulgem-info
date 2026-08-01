@@ -240,7 +240,7 @@
             "DescID": "0xCDF913DF"
         },
         "Name": "Herbivaura",
-        "Desc": "All Yo-kai find it harder to attack.\n(Decreases physical attack chance by 15%)"
+        "Desc": "All Yo-kai find it harder to attack.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
     },
     {
         "IDs": {
@@ -483,7 +483,7 @@
             "DescID": "0x72A47DA9"
         },
         "Name": "Too Afraid",
-        "Desc": "User loafs around a lot.\n(Skill cannot be affected by other skills.)"
+        "Desc": "User loafs around a lot.\n(Skill cannot be affected by other skills.) (Provisional description, still too vague)"
     },
     {
         "IDs": {
