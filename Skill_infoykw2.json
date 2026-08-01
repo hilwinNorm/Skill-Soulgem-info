@@ -6,7 +6,7 @@
             "DescID": "0xA4ECBAD4"
         },
         "Name": "Adrenaline",
-        "Desc": "Power increases each time a foe is defeated.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "Power increases each time a foe is defeated. User receives tier 2 STR and SPR inspirit."
     },
     {
         "IDs": {
@@ -78,7 +78,7 @@
             "DescID": "0x2987B620"
         },
         "Name": "Lone Soldier",
-        "Desc": "STR increases if there are no adjacent Yo-kai.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "User's STR increases by +25% if there are no adjacted Yokai on both sides or they're dead."
     },
     {
         "IDs": {
@@ -105,7 +105,7 @@
             "DescID": "0x752E019D"
         },
         "Name": "Bladed Body",
-        "Desc": "Body deals damage to all foes who attack it.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "User deals 25% of the recieved damage at attacker."
     },
     {
         "IDs": {
@@ -114,7 +114,7 @@
             "DescID": "0x6CB6E434"
         },
         "Name": "Golden Touch",
-        "Desc": "Win more money after battles.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "Player recieves +20% more money at the end of the battle."
     },
     {
         "IDs": {
@@ -123,7 +123,7 @@
             "DescID": "0xD3EB8A42"
         },
         "Name": "Dirty Rat",
-        "Desc": "May attack an ally.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "User has 2% chance of attacking an ally."
     },
     {
         "IDs": {
@@ -132,7 +132,7 @@
             "DescID": "0x29E3DAE5"
         },
         "Name": "Windshield",
-        "Desc": "Takes less damage from Wind attacks.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "User takes -30% less damage from Wind elemental attack."
     },
     {
         "IDs": {
@@ -159,7 +159,7 @@
             "DescID": "0x479BB7F7"
         },
         "Name": "Pigskin",
-        "Desc": "Only receives half damage from an attack.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "User recieves only 50% of the damage from attacks. (Doesn't affect attacks that deal % based damage)"
     },
     {
         "IDs": {
@@ -168,7 +168,7 @@
             "DescID": "0x75C9B9B0"
         },
         "Name": "Bronze Guard",
-        "Desc": "Takes less Earth and Wind damage.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "User recives -30% damage from Earth and Wind attacks."
     },
     {
         "IDs": {
@@ -177,7 +177,7 @@
             "DescID": "0xCA94D7C6"
         },
         "Name": "Feel the Beat",
-        "Desc": "Boosts all stats.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "All Yokai (enemy and ally) recieve +10% boost to all stats."
     },
     {
         "IDs": {
@@ -213,7 +213,7 @@
             "DescID": "0x2A413ED8"
         },
         "Name": "Soulful Promise",
-        "Desc": "Gives a SPD boost to all Fleshy Souls Yo-kai.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "All Fleshy Souls Yo-kai recieve +10% SPD boost while this Yokai is alive."
     },
     {
         "IDs": {
@@ -222,7 +222,7 @@
             "DescID": "0xF8C6D981"
         },
         "Name": "Wavy Body",
-        "Desc": "Dodges attacks like you wouldn't believe!\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "User has 25% chance of dodging enemy attack."
     },
     {
         "IDs": {
@@ -240,7 +240,7 @@
             "DescID": "0xCDF913DF"
         },
         "Name": "Herbivaura",
-        "Desc": "All Yo-kai find it harder to attack.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "All Yo-kai find it harder to attack.\n(Decreases physical attack chance by 15%)"
     },
     {
         "IDs": {
@@ -267,7 +267,7 @@
             "DescID": "0xD3EB8A42"
         },
         "Name": "Breaking Baaad",
-        "Desc": "May attack an ally.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "User has 2% chance of attacking an ally."
     },
     {
         "IDs": {
@@ -276,7 +276,7 @@
             "DescID": "0x6BBF4CE8"
         },
         "Name": "Darkness Falls",
-        "Desc": "Amount of absorbed HP increased.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "User absorbs +50% more HP."
     },
     {
         "IDs": {
@@ -312,7 +312,7 @@
             "DescID": "0xD9FF2254"
         },
         "Name": "Night Life",
-        "Desc": "All statuses receive boosts at night.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "User stats increase by +5% during Night.\n(Doesn't work in online battles)"
     },
     {
         "IDs": {
@@ -339,7 +339,7 @@
             "DescID": "0xD99B4E91"
         },
         "Name": "Waterproof",
-        "Desc": "Takes less damage from Water attacks.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "User recives -30% damage from Water attacks."
     },
     {
         "IDs": {
@@ -348,7 +348,7 @@
             "DescID": "0xD3EB8A42"
         },
         "Name": "Suspicion",
-        "Desc": "May attack an ally.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "User has 2% chance of attacking an ally."
     },
     {
         "IDs": {
@@ -357,7 +357,7 @@
             "DescID": "0x6500A81F"
         },
         "Name": "Bloodsucker",
-        "Desc": "Steals HP from adjacent Yo-kai when attacking.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "Steals 2% of HP from each adjacent Yo-kai during each move.\n(User recovers 4% of HP if there are 2 adjacent Yokai while they lose 2%. And 2% only if there's only 1 adjacent Yokai.)"
     },
     {
         "IDs": {
@@ -366,7 +366,7 @@
             "DescID": "0x37F14378"
         },
         "Name": "Know Your Place",
-        "Desc": "Transfers a defeat to an ally and restores HP.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "Upon receiving a lethal hit, nullifies the damage and restores 999 HP.\n Then, deals 999 damage to a random adjacent Yo-kai (can trigger 1HP Soul)."
     },
     {
         "IDs": {
@@ -375,7 +375,7 @@
             "DescID": "0x1F7EF486"
         },
         "Name": "Dragon Force",
-        "Desc": "Power will increase when in trouble.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "Grants a Tier 3 STR and SPR buff when HP is at 25% or below."
     },
     {
         "IDs": {
@@ -384,7 +384,7 @@
             "DescID": "0x61ABE4FE"
         },
         "Name": "Rest Less",
-        "Desc": "All Yo-kai take damage while Loafing.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "All Yokai take damage equal to 15% of their max HP when Loafing.\n(User recieves Soultimate charge from hit Yokai.)"
     },
     {
         "IDs": {
@@ -402,7 +402,7 @@
             "DescID": "0x7FB97D63"
         },
         "Name": "Extreme Critical",
-        "Desc": "Power of critical attacks is high.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "Increases damage of user's critical attacks by 50%.\n(Making critical attacks do x1.875 damage instead of x1.25)"
     },
     {
         "IDs": {
@@ -411,7 +411,7 @@
             "DescID": "0x40921F2B"
         },
         "Name": "Fire Watchout",
-        "Desc": "Takes less damage from Fire attacks.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "User recives -30% damage from Fire attacks."
     },
     {
         "IDs": {
@@ -420,7 +420,7 @@
             "DescID": "0x3AEC43B2"
         },
         "Name": "Make Amends",
-        "Desc": "Restores HP to allies while Yo-kai Loafs.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "User restores one of ally's HP by based on SPR stat.\n(Skill has 50BP.)"
     },
     {
         "IDs": {
@@ -429,7 +429,7 @@
             "DescID": "0x3DE5EB6E"
         },
         "Name": "Blazing Spirit",
-        "Desc": "Power increases when an ally is defeated.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "Grants Tier 4 STR and SPR Inspirit buff when ally is defeated."
     },
     {
         "IDs": {
@@ -447,7 +447,7 @@
             "DescID": "0xA488D611"
         },
         "Name": "Me Too!",
-        "Desc": "Yo-kai mimics moves made by an ally in front.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "Replaces the user's attack with the last move used in battle, calculating damage with the user's own stats."
     },
     {
         "IDs": {
@@ -456,7 +456,7 @@
             "DescID": "0x5A4FA692"
         },
         "Name": "Soothing Rhythm",
-        "Desc": "All foes will be prone to Loafing around.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "All enemy Yokai has +5% higher chance of Loafing.\n(Does not affect Yokai with no Loafing ability.)"
     },
     {
         "IDs": {
@@ -465,7 +465,7 @@
             "DescID": "0x4DEB7324"
         },
         "Name": "Sneaky Snacker",
-        "Desc": "Recovers HP after an enemy is defeated.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "Recovers 20% of user's total HP after defeating an enemy."
     },
     {
         "IDs": {
@@ -474,7 +474,7 @@
             "DescID": "0x88AC2D0E"
         },
         "Name": "Soft Skin",
-        "Desc": "Increases own DEF if dealt critical damage.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "User recieves Tier 2 DEF Inspirit buff when dealt critical damage."
     },
     {
         "IDs": {
@@ -483,7 +483,7 @@
             "DescID": "0x72A47DA9"
         },
         "Name": "Too Afraid",
-        "Desc": "Loafs around a lot.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "User loafs around a lot.\n(Skill cannot be affected by other skills.)"
     },
     {
         "IDs": {
@@ -528,7 +528,7 @@
             "DescID": "0x3E236396"
         },
         "Name": "Sandbag",
-        "Desc": "Takes less damage from Earth attacks.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "User recives -30% damage from Earth attacks."
     },
     {
         "IDs": {
@@ -726,7 +726,7 @@
             "DescID": "0xF2B61D52"
         },
         "Name": "Prediction",
-        "Desc": "Decreases foe's accuracy.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "All ally Yokai has +15% chance of dodging enemy attacks. (Can be stacked)"
     },
     {
         "IDs": {
@@ -735,7 +735,7 @@
             "DescID": "0xAEF812C2"
         },
         "Name": "Rice and Dice",
-        "Desc": "Ups damage Yo-kai does to enemy's Oni.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "User deals +50% more against Oni Yokai.\n(Oni Yokai: Gargaros, Ogralus, Orcanos, Leadoni, Mynimo, Suspicioni, Tantroni, Contrarioni, Gilgaros, Swelton, Eyesoar, Eyellure, Blabeye, Takoyakid, Takoyaking)"
     },
     {
         "IDs": {
@@ -753,7 +753,7 @@
             "DescID": "0xD3EB8A42"
         },
         "Name": "Annoyance",
-        "Desc": "May attack an ally.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "User has 2% chance of attacking an ally."
     },
     {
         "IDs": {
@@ -762,7 +762,7 @@
             "DescID": "0xAE9C7E07"
         },
         "Name": "Insulator",
-        "Desc": "Takes less damage from Lightning attacks.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "User recives -30% less damage from Lightning attacks."
     },
     {
         "IDs": {
@@ -780,7 +780,7 @@
             "DescID": "0x3DE5EB6E"
         },
         "Name": "Shining Spirit",
-        "Desc": "Power increases when an ally is defeated.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "Grants Tier 4 STR and SPR Inspirit buff when ally is defeated."
     },
     {
         "IDs": {
@@ -789,7 +789,7 @@
             "DescID": "0x435497D3"
         },
         "Name": "Skilled Loafer",
-        "Desc": "Will recover a little HP when Loafing around.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "User recovers 30% of HP when Loafing around."
     },
     {
         "IDs": {
@@ -924,7 +924,7 @@
             "DescID": "0xA995D6DB"
         },
         "Name": "Use the Hose",
-        "Desc": "Dodges and returns every enemy attack.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "User has 30% chance to dodge enemy Technique."
     },
     {
         "IDs": {
