@@ -501,7 +501,7 @@
             "DescID": "0xC7EDBBC9"
         },
         "Name": "Hairnet",
-        "Desc": "Does not get inspirited by Inspirits.\n(Unless it's guaranteed and doesn't do damage.)"
+        "Desc": "Does not get inspirited by enemies.\n(Unless it's guaranteed and doesn't do damage.)"
     },
     {
         "IDs": {
