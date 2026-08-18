@@ -294,7 +294,7 @@
             "DescID": "0x4AE2DBF8"
         },
         "Name": "Spirit Guard",
-        "Desc": "Nullifies damage from techniques that are effective against this Yo-kai."
+        "Desc": "Nullifies damage from techniques that are effective against this Yo-kai while guarding."
     },
     {
         "IDs": {
@@ -591,7 +591,7 @@
             "DescID": "0xC7EDBBC9"
         },
         "Name": "Saintly Scales",
-        "Desc": "Does not get inspirited by Inspirits.\n(Unless it's guaranteed and doesn't do damage.)"
+        "Desc": "Does not get inspirited by negative Inspirits.\n(Unless it's guaranteed and doesn't do damage.)"
     },
     {
         "IDs": {
@@ -618,7 +618,7 @@
             "DescID": "0xC7EDBBC9"
         },
         "Name": "Miraculous Scales",
-        "Desc": "Does not get inspirited by Inspirits.\n(Unless it's guaranteed and doesn't do damage.)"
+        "Desc": "Does not get inspirited by negative Inspirits.\n(Unless it's guaranteed and doesn't do damage.)"
     },
     {
         "IDs": {
@@ -645,7 +645,7 @@
             "DescID": "0x02AAE5E3"
         },
         "Name": "Step Up",
-        "Desc": "When in front, user attacks first.\n(Does not stack.)"
+        "Desc": "When in front, user attacks first, then resets all active yo-kai AP.\n(Does not stack.)"
     },
     {
         "IDs": {
@@ -897,7 +897,7 @@
             "DescID": "0x02AAE5E3"
         },
         "Name": "In a Flash",
-        "Desc": "When in front, user attacks first.\n(Does not stack.)"
+        "Desc": "When in front, user attacks first, then resets all active yo-kai AP.\n(Does not stack.)"
     },
     {
         "IDs": {
@@ -1014,7 +1014,7 @@
             "DescID": "0xBAFE2349"
         },
         "Name": "Noise Pollution",
-        "Desc": "All Yo-kai receive +50% more damage from Inspirits.\n(Does not stack.)"
+        "Desc": "All Yo-kai receive +50% more damage from negative Inspirits."
     },
     {
         "IDs": {
@@ -1050,7 +1050,7 @@
             "DescID": "0x02AAE5E3"
         },
         "Name": "Me First!",
-        "Desc": "When in front, user attacks first.\n(Does not stack.)"
+        "Desc": "When in front, user attacks first, then resets all active yo-kai AP.\n(Does not stack.)"
     },
     {
         "IDs": {
@@ -1230,7 +1230,7 @@
             "DescID": "0xB08EE79A"
         },
         "Name": "Bear Care",
-        "Desc": "Heals Yo-kai once by 50% of its total HP when HP drop to 25% or below."
+        "Desc": "Heals the user once by 50% of its total HP when HP drop to 25% or below."
     },
     {
         "IDs": {
@@ -1662,7 +1662,7 @@
             "DescID": "0xF8C6D981"
         },
         "Name": "Born Winner",
-        "Desc": "User has 25% chance of dodging enemy attack."
+        "Desc": "Increases chance of dodging attacks by 25%.\n(Can stack)"
     },
     {
         "IDs": {
