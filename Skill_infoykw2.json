@@ -1014,7 +1014,7 @@
             "DescID": "0xBAFE2349"
         },
         "Name": "Noise Pollution",
-        "Desc": "All Yo-kai receive +50% more damage from Inspirits.\n(Does not stack.)"
+        "Desc": "All Yo-kai receive +50% more damage from negative Inspirits.\n(Does not stack.)"
     },
     {
         "IDs": {
